@@ -1,5 +1,5 @@
 # Machine Learning Deployment in Production with AWS SageMaker
-This repo demonstrates how machine learning models can be trained, deployed, and updated in production with AWS SageMaker.<br>
+This repo demonstrates how machine learning models can be trained, deployed, and updated in production with AWS SageMaker. It is a work in progress.<br>
 This work is a collection of several projects as structured below.
 1. Sentiment Analysis
 2. Price Prediction
